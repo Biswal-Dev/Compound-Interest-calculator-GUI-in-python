@@ -2,6 +2,8 @@
 from tkinter import *
 
 
+
+
 # Function for clearing the
 # contents of all entry boxes
 def clear_all():
